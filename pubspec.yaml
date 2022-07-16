@@ -14,7 +14,10 @@ dependencies:
   flutter_web_plugins: "0.17.0"
   mpcore: "0.17.0"
   mp_build_tools: "0.17.0"
+  playbox_sdk:
+    git: https://github.com/mpflutter/playbox_sdk.git
 dependency_overrides:
   flutter: "0.17.0"
   mpcore: "0.17.0"
   flutter_web_plugins: "0.17.0"
+  meta: "^1.7.0"
