@@ -14,7 +14,7 @@ packages:
       name: async
       url: "https://pub.mpflutter.com"
     source: hosted
-    version: "2.8.2"
+    version: "2.9.0"
   battery_plus:
     dependency: transitive
     description:
@@ -64,13 +64,6 @@ packages:
       url: "https://pub.mpflutter.com"
     source: hosted
     version: "1.1.0"
-  charcode:
-    dependency: transitive
-    description:
-      name: charcode
-      url: "https://pub.mpflutter.com"
-    source: hosted
-    version: "1.3.1"
   cli_dialog:
     dependency: transitive
     description:
@@ -78,6 +71,13 @@ packages:
       url: "https://pub.mpflutter.com"
     source: hosted
     version: "0.5.0"
+  clock:
+    dependency: transitive
+    description:
+      name: clock
+      url: "https://pub.mpflutter.com"
+    source: hosted
+    version: "1.1.1"
   collection:
     dependency: transitive
     description:
@@ -133,14 +133,14 @@ packages:
       name: crypto
       url: "https://pub.mpflutter.com"
     source: hosted
-    version: "3.0.1"
+    version: "3.0.2"
   dart_console:
     dependency: transitive
     description:
       name: dart_console
       url: "https://pub.mpflutter.com"
     source: hosted
-    version: "1.0.0"
+    version: "1.1.1"
   dbus:
     dependency: transitive
     description:
@@ -190,13 +190,20 @@ packages:
       url: "https://pub.mpflutter.com"
     source: hosted
     version: "2.1.1"
+  dio:
+    dependency: transitive
+    description:
+      name: dio
+      url: "https://pub.mpflutter.com"
+    source: hosted
+    version: "4.0.1+1"
   ffi:
     dependency: transitive
     description:
       name: ffi
       url: "https://pub.mpflutter.com"
     source: hosted
-    version: "1.1.2"
+    version: "1.2.1"
   file:
     dependency: transitive
     description:
@@ -282,7 +289,7 @@ packages:
       name: glob
       url: "https://pub.mpflutter.com"
     source: hosted
-    version: "2.0.2"
+    version: "2.1.0"
   http:
     dependency: transitive
     description:
@@ -296,7 +303,14 @@ packages:
       name: http_parser
       url: "https://pub.mpflutter.com"
     source: hosted
-    version: "4.0.0"
+    version: "4.0.1"
+  intl:
+    dependency: transitive
+    description:
+      name: intl
+      url: "https://pub.mpflutter.com"
+    source: hosted
+    version: "0.17.0"
   json_patch:
     dependency: transitive
     description:
@@ -401,7 +415,7 @@ packages:
       name: path
       url: "https://pub.mpflutter.com"
     source: hosted
-    version: "1.8.1"
+    version: "1.8.2"
   path_provider:
     dependency: transitive
     description:
@@ -477,7 +491,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: f26a0b113ed0b3c81729d2514aed8297b6ee0826
+      resolved-ref: "51c0cb65e5e28d61ff5bb9d410bc982581fb0719"
       url: "https://github.com/mpflutter/playbox_sdk.git"
     source: git
     version: "1.0.0"
@@ -522,21 +536,21 @@ packages:
       name: source_span
       url: "https://pub.mpflutter.com"
     source: hosted
-    version: "1.8.2"
+    version: "1.9.0"
   string_scanner:
     dependency: transitive
     description:
       name: string_scanner
       url: "https://pub.mpflutter.com"
     source: hosted
-    version: "1.1.0"
+    version: "1.1.1"
   term_glyph:
     dependency: transitive
     description:
       name: term_glyph
       url: "https://pub.mpflutter.com"
     source: hosted
-    version: "1.2.0"
+    version: "1.2.1"
   typed_data:
     dependency: transitive
     description:
@@ -550,7 +564,7 @@ packages:
       name: usage
       url: "https://pub.mpflutter.com"
     source: hosted
-    version: "4.0.2"
+    version: "4.1.0"
   vector_math:
     dependency: transitive
     description:
@@ -578,7 +592,7 @@ packages:
       name: win32
       url: "https://pub.mpflutter.com"
     source: hosted
-    version: "2.6.0"
+    version: "2.6.1"
   xdg_directories:
     dependency: transitive
     description:
